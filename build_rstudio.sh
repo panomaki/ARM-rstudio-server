@@ -6,7 +6,7 @@ sudo apt-get update
 sudo apt-get install -y r-base r-base-dev
 
 # Set RStudio version
-VERS=v0.99.473
+VERS=v1.3.1093
 
 # Download RStudio source
 cd ~/Downloads/
